@@ -4,7 +4,10 @@ this is third process after fetch
 
 
 this is testing
+<<<<<<< HEAD
 this is fourt
 this is fifthr
 :wq!
+this is insert for testing i command for insert in unix
 
+this is fourth
